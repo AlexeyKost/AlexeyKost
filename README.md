@@ -12,9 +12,9 @@
   #### Успешно проведенное тестирование: 
 
   ## Сертификаты:
-  * [Ручное тестирование веб-приложений](https://github.com/AlexeyKost/About-Me/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.jpg)
-  * [Git - система контроля версий](https://github.com/AlexeyKost/About-Me/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Git.jpg)
-  * [Java для тестировщиков](https://github.com/AlexeyKost/About-Me/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Java.jpg)
+  * [Ручное тестирование веб-приложений](https://github.com/AlexeyKost/AlexeyKost/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.jpg)
+  * [Git - система контроля версий](https://github.com/AlexeyKost/AlexeyKost/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Git.jpg)
+  * [Java для тестировщиков](https://github.com/AlexeyKost/AlexeyKost/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Java.jpg)
   
   ### Мои навыки:
   Ручное тестирование, написание тест-кейсов, тест-дизайн Тестирование веб-приложений, API, понимание клиент-серверного опыта, работа с DevTools, Postman Понимание работы баз данных. Работа с Git, одновременная работа с множеством репозиториев. Нагрузочное тестирование, Java для тестировщиков.
