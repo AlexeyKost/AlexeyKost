@@ -8,6 +8,7 @@
 * Работа с Git и GitHub
 * Ручное тестирование
 * Java для тестировщиков. [Работы на тему Java для тестировщиков](https://github.com/stars/AlexeyKost/lists/java)
+* Автоматизированное тестирование. [Работы на тему Автоматизированное тестирование](https://github.com/stars/AlexeyKost/lists/automatizacii)
   
   #### Успешно проведенное тестирование: [Работа на тему "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1BjioTJM5VhfHsddf-4Q5uy8YZ4kS16VjmQets0w4GiQ/edit#gid=0)
 
