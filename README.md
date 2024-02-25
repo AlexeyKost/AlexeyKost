@@ -11,7 +11,7 @@
 * Автоматизированное тестирование. [Работы на тему Автоматизированное тестирование](https://github.com/stars/AlexeyKost/lists/automated-testing)
 * JS для тестировщиков. [Работы на тему JS для тестировщика](https://github.com/AlexeyKost/bjs-2-homeworks)
 * Автоматизация тестирования веб-интерфейсов. [Работы на тему Автоматизация тестирования веб-интерфейсов](https://github.com/stars/AlexeyKost/lists/automation-of-web-interface-test)
-* Тестирование мобильных приложений. [Работы на тему Тестирование мобильных приложений](https://github.com/stars/AlexeyKost/lists/mobile-application-testing) {Д/з по теме Тестировние мобильных приложений](https://drive.google.com/drive/folders/1hGD6VNmRq03kGK6MzA8OAQDOLc5vIx5P?usp=sharing)
+* Тестирование мобильных приложений. [Работы на тему Тестирование мобильных приложений](https://github.com/stars/AlexeyKost/lists/mobile-application-testing) [Д/з по теме Тестировние мобильных приложений](https://drive.google.com/drive/folders/1hGD6VNmRq03kGK6MzA8OAQDOLc5vIx5P?usp=sharing)
   #### Успешно проведенное тестирование: [Работа на тему "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1BjioTJM5VhfHsddf-4Q5uy8YZ4kS16VjmQets0w4GiQ/edit#gid=0)
 
   ## Сертификаты:
