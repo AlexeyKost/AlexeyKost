@@ -13,7 +13,7 @@
 * Автоматизация тестирования веб-интерфейсов. [Работы на тему Автоматизация тестирования веб-интерфейсов](https://github.com/stars/AlexeyKost/lists/automation-of-web-interface-test)
 * Тестирование мобильных приложений. [Работы на тему Тестирование мобильных приложений](https://github.com/stars/AlexeyKost/lists/mobile-application-testing),  [Д/з по теме Тестировние мобильных приложений](https://drive.google.com/drive/folders/1hGD6VNmRq03kGK6MzA8OAQDOLc5vIx5P?usp=sharing)
 * Тестирование производительности. [Введение в тестирование производительности](https://docs.google.com/document/d/15iWA04G6Rs16Sj1vWZdOoSJB5d0u56BdiMc2XAKFwfY/edit),  [Подготовка стенда тестирования](https://github.com/AlexeyKost/NT)
-* Тестирование безопасности [](https://drive.google.com/drive/folders/1AhSXPSiJzq0Vo-6jnkFhHTM9mo-H5WN0?usp=sharing)
+* Тестирование безопасности [Работы на тему тестирование безопасности](https://drive.google.com/drive/folders/1AhSXPSiJzq0Vo-6jnkFhHTM9mo-H5WN0?usp=sharing)
   #### Успешно проведенное тестирование: [Работа на тему "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1BjioTJM5VhfHsddf-4Q5uy8YZ4kS16VjmQets0w4GiQ/edit#gid=0)
 
   ## Сертификаты:
